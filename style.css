@@ -1,0 +1,48 @@
+}
+body {
+  font-family: 'Lato', sans-serif;
+    background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
+      background-position: center top;
+        background-size: cover;
+	  margin: 0;  
+	  }
+
+	  .page-title{
+	   text-align: center;
+	     font-weight: 100;
+	       color: #87CEFA;
+	       }
+
+	       .page-description {
+	         border: 3px solid #00BFFF;
+		   text-align: center;
+		     padding: 30px;
+		       font-color #00008B; 
+		       }
+
+		       h1 {
+		         font-family: Palatino, 'Palatino Linotype', serif;
+			   font-size: 40px;
+			   	color: #87CEFA; 
+				}
+
+				h2 {
+					font-size: 56px;
+						color: #191970;
+							 text-align: center;	 
+							 }
+
+							 p { 
+							 	font-size: 2rem;
+									color: #00008B;
+										 text-align: center;
+										 }
+
+										 #masthead {
+										    background-position: center bottom;
+										       background: url('https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAwLAAAAJGU0MjhhMzQzLWM4ZTctNGQ2MC1hNTU1LWQxOGIwZmM1NmFmNA.jpg') no-repeat center bottom;
+										          height : 360px;
+											     padding : 0;
+											        margin: 10px auto 0 auto;
+												   width: 910px;
+												      }
